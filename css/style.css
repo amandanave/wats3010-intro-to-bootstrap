@@ -1,1 +1,6 @@
-/* Custom styles go here. */
+.carousel-caption h2 {
+  width: 150px;
+  background: pink;
+  color: white;
+  text-align: center;
+}
